@@ -1,6 +1,6 @@
 # PS
-- [中文版本](https://github.com/alphaSeclab/sec-tool-list/master/Readme.md)
-- Because Github can not show all lines, this page only show the first 1000 tools sorted by star count. [Read Full Version Here](https://github.com/alphaSeclab/sec-tool-list/master/Readme_full_en.md)
+- [中文版本](https://github.com/alphaSeclab/sec-tool-list/blob/master/Readme.md)
+- Because Github can not show all lines, this page only show the first 1000 tools sorted by star count. [Read Full Version Here](https://github.com/alphaSeclab/sec-tool-list/blob/master/Readme_full_en.md)
 
 # Tool List
 - [**34521**Star][13d] [C++] [x64dbg/x64dbg](https://github.com/x64dbg/x64dbg) An open-source x64/x32 debugger for windows.

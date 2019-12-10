@@ -1,6 +1,6 @@
 # 说明
-- [英文版本](https://github.com/alphaSeclab/sec-tool-list/master/Readme_en.md)
-- 因Github Readme显示行数有限, 当前页面显示的为不完整版, 只显示了星数最高的前1000个工具. [点击查看完整版](https://github.com/alphaSeclab/sec-tool-list/master/Readme_full.md)
+- [英文版本](https://github.com/alphaSeclab/sec-tool-list/blob/master/Readme_en.md)
+- 因Github Readme显示行数有限, 当前页面显示的为不完整版, 只显示了星数最高的前1000个工具. [点击查看完整版](https://github.com/alphaSeclab/sec-tool-list/blob/master/Readme_full.md)
 
 
 # 工具列表

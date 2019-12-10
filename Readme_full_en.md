@@ -1,6 +1,5 @@
 # PS
-- [中文版本](https://github.com/alphaSeclab/sec-tool-list/master/Readme.md)
-- Because Github can not show all lines, this page only show the first 1000 tools sorted by star count. [Read Full Version Here](https://github.com/alphaSeclab/sec-tool-list/master/Readme_full_en.md)
+- [中文版本](https://github.com/alphaSeclab/sec-tool-list/blob/master/Readme.md)
 
 
 # Tool List
