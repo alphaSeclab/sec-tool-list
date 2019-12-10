@@ -2776,14 +2776,6 @@
         "lang": "Python"
     },
     {
-        "link": "https://github.com/quantaxis/quantaxis",
-        "star": 2962,
-        "commits": 6458,
-        "modify_time": "2019-12-02 05:53:38",
-        "last_release": "1.6.11",
-        "lang": "Python"
-    },
-    {
         "link": "https://github.com/google/santa",
         "star": 2962,
         "commits": 866,
