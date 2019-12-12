@@ -1,6 +1,11 @@
 # PS
 - [中文版本](https://github.com/alphaSeclab/sec-tool-list/blob/master/Readme.md)
 - Because Github can not show all lines, this page only show the first 1000 tools sorted by star count. [Read Full Version Here](https://github.com/alphaSeclab/sec-tool-list/blob/master/Readme_full_en.md)
+- My Other Repo:
+    - [Reverse Engineering Resources](https://github.com/alphaSeclab/awesome-ida)
+    - [Cyber Security Resources](https://github.com/alphaSeclab/awesome-cyber-security)
+    - [Malware Analysis Reports](https://github.com/alphaSeclab/malware-analysis-reports)
+    - [Vul Analysis Reports](https://github.com/alphaSeclab/vul-analysis)
 
 # Tool List
 - [**45523**Star][11d] [C#] [shadowsocks/shadowsocks-windows](https://github.com/shadowsocks/shadowsocks-windows) If you want to keep a secret, you must also hide it from yourself.

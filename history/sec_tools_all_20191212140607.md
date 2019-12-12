@@ -1,6 +1,11 @@
 # 说明
 - [英文版本](https://github.com/alphaSeclab/sec-tool-list/blob/master/Readme_en.md)
 - 因Github Readme显示行数有限, 当前页面显示的为不完整版, 只显示了星数最高的前1000个工具. [点击查看完整版](https://github.com/alphaSeclab/sec-tool-list/blob/master/Readme_full.md)
+- 我的其他Repo:
+    - [逆向资源](https://github.com/alphaSeclab/awesome-ida)
+    - [网络安全资源](https://github.com/alphaSeclab/awesome-cyber-security)
+    - [恶意代码分析报告](https://github.com/alphaSeclab/malware-analysis-reports)
+    - [漏洞分析文章](https://github.com/alphaSeclab/vul-analysis)
 
 # 工具列表
 - [**45523**星][11d] [C#] [shadowsocks/shadowsocks-windows](https://github.com/shadowsocks/shadowsocks-windows) If you want to keep a secret, you must also hide it from yourself.
