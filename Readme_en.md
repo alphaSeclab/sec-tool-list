@@ -1033,3 +1033,4 @@
 - [**1590**Star][1m] [Go] [eolinker/goku-api-gateway](https://github.com/eolinker/goku-api-gateway) A Powerful HTTP API Gateway in pure golang！Goku API Gateway （中文名：悟空 API 网关）是一个基于 Golang开发的微服务网关，能够实现高性能 HTTP API 转发、服务编排、多租户管理、API 访问权限控制等目的，拥有强大的自定义插件系统可以自行扩展，并且提供友好的图形化配置界面，能够快速帮助企业进行 API 服务治理、提高 API 服务的稳定性和安全性。
 - [**1590**Star][21d] [Shell] [mzet-/linux-exploit-suggester](https://github.com/mzet-/linux-exploit-suggester) Linux privilege escalation auditing tool
 - [**1585**Star][7m] [Ruby] [brunofacca/zen-rails-security-checklist](https://github.com/brunofacca/zen-rails-security-checklist) Checklist of security precautions for Ruby on Rails applications.
+- [**185**][10m] [Py] [Spyse.py](https://github.com/zeropwn/spyse.py) python wrapper for [spyse](https://spyse.com/) - cybersecurity search engine that collects all needed data for complete reconnaissance
